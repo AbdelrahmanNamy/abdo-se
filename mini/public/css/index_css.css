@@ -1,0 +1,37 @@
+body {
+    background-image: url("../img/salma.jpg");
+    background-size: 1400px;
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-attachment: fixed;
+}
+
+#b1{
+	position: absolute;
+	margin-left: 700px;
+	margin-top: 250px;
+	background-color: #555555;
+	font-size: 20px;
+	padding: 14px 40px;
+	color: white;
+}
+#b2{
+	position: absolute;
+	margin-left: 500px;
+	margin-top: 300px;
+	background-color: #555555;
+	font-size: 20px;
+	padding: 14px 40px;
+	color: white;
+
+}
+#b3{
+	position: absolute;
+	margin-left: 900px;
+	margin-top: 300px;
+	background-color: #555555;
+	font-size: 20px;
+	padding: 14px 40px;
+	color: white;
+
+}
